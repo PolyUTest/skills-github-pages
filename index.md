@@ -1,5 +1,6 @@
 ---
 title: Welcome to Richard's blog
+layout: default
 ---
 
 <h1>Blog Posts</h1>
